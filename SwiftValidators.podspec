@@ -14,5 +14,5 @@ s.requires_arc = true
 s.source_files = 'SwiftValidators/Classes/**/*.swift'
 
 s.frameworks = 'Foundation'
-
+s.swift_version = '5'
 end
